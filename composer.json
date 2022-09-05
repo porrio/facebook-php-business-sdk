@@ -23,5 +23,11 @@
     "psr-4": {
       "FacebookAds\\": "src/FacebookAds/"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/porrio/facebook-php-business-sdk"
+    }
+  ]
 }
